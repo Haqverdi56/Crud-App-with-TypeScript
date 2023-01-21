@@ -1,0 +1,11 @@
+.Header {
+    margin-bottom: 5rem;
+}
+
+.links {
+    display: flex;
+    gap: 15rem;
+    justify-content: center;
+    font-size: 2rem;
+    flex-wrap: wrap;
+}
